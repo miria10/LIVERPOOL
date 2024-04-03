@@ -1,4 +1,12 @@
-body
+.A{
+    color: darkblue;
+                font-family: Arial;
+                font-size: 20px
+}
+
+.TODO
 {
-    background-color: rgb(220, 20, 130);
+    color: darkblue;
+                font-family: Arial;
+                font-size: 20px
 }
